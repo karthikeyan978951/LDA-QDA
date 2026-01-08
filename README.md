@@ -39,4 +39,3 @@ To classify iris flower species using LDA and QDA algorithms and compare their a
 
 ---
 
-## 📂 Project Structure
